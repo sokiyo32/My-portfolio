@@ -1,0 +1,15 @@
+
+{
+"name": "Youtube Downloader",
+  "description": "Download Youtube video easily",
+  "version": "0.2",
+  "author": "Dereje Aman Muktar",
+  "manifest_version": 2,
+  "web_accessible_resources": ["src/youtubeDL.js"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/watch*"],
+      "js": ["src/loader.js"]
+    }
+  ]
+}

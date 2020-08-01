@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2bc02b4-0867-43bb-a640-c9d3357365fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c57kwxezFf5o25vdMsUMmQSE8Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DrugRelatedDeath.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SRC/project/DrugRelatedDeath.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.DrugRelatedDeath.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2bc02b4-0867-43bb-a640-c9d3357365fa" name="Default Changelist" comment="" />
+      <created>1589806746258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589806746258</updated>
+      <workItem from="1589806747686" duration="9919000" />
+      <workItem from="1591393013270" duration="9288000" />
+      <workItem from="1591441337182" duration="6099000" />
+      <workItem from="1591521639280" duration="11548000" />
+      <workItem from="1591545967570" duration="12427000" />
+      <workItem from="1591722606650" duration="611000" />
+      <workItem from="1591890585103" duration="18615000" />
+      <workItem from="1591970529763" duration="9637000" />
+      <workItem from="1591993096443" duration="7357000" />
+      <workItem from="1592142291801" duration="19757000" />
+      <workItem from="1592222163047" duration="1240000" />
+      <workItem from="1592238383329" duration="193000" />
+      <workItem from="1592258994748" duration="1507000" />
+      <workItem from="1595583105240" duration="11534000" />
+      <workItem from="1595706964563" duration="3268000" />
+      <workItem from="1595769981028" duration="1210000" />
+      <workItem from="1596214528985" duration="16400000" />
+      <workItem from="1596289743307" duration="4739000" />
+      <workItem from="1596311185614" duration="3272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596312226127">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="141" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.743@0.0.1366.743" timestamp="1596312226127" />
+    <state x="466" y="129" width="426" height="481" key="FileChooserDialogImpl" timestamp="1592238572131">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="466" y="129" width="426" height="481" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1592238572131" />
+    <state x="187" y="6" key="SettingsEditor" timestamp="1596314164393">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1596314164393" />
+    <state x="346" y="163" key="run.anything.popup" timestamp="1591994634421">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="346" y="163" key="run.anything.popup/0.0.1366.743@0.0.1366.743" timestamp="1591994634421" />
+    <state x="346" y="64" key="search.everywhere.popup" timestamp="1589812295602">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="346" y="64" key="search.everywhere.popup/0.0.1366.743@0.0.1366.743" timestamp="1589812295602" />
+  </component>
+</project>
